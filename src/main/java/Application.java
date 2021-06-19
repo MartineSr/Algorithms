@@ -1,6 +1,4 @@
-import mergesort.Mergesort;
 import quicksort.Quicksort;
-
 import java.util.Arrays;
 
 public class Application {

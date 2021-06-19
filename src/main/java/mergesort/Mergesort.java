@@ -1,7 +1,5 @@
 package mergesort;
 
-import java.util.Arrays;
-
 public class Mergesort {
 
     // array = [12,4,0,9,4,10,11,7]
